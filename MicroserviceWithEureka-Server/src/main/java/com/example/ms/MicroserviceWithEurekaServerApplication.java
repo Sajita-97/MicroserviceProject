@@ -10,7 +10,7 @@ public class MicroserviceWithEurekaServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MicroserviceWithEurekaServerApplication.class, args);
-		System.out.println("welcome to eureka server");
+		
 	}
 
 }

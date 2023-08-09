@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example.ms</groupId>
 	<artifactId>MicroserviceWithEureka-Server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1</version>
 	<name>MicroserviceWithEureka-Server</name>
 	<description>Demo project for MicroService</description>
 	<properties>
